@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Q1: What does SQL stand for?",
+    "answer_1": "Structured Query Language",
+    "answer_2": "Structured Question Language",
+    "answer_3": "Strong Question Language",
+    "answer_4": "None of the above",
+    "right_answer": "Structured Query Language"
+  },
+  {
+    "title": "Q2: Which SQL statement is used to extract data from a database?",
+    "answer_1": "OPEN",
+    "answer_2": "CLOSE",
+    "answer_3": "EXTRACT",
+    "answer_4": "SELECT",
+    "right_answer": "SELECT"
+  },
+  {
+    "title": " Which SQL statement is used to update data in a database?",
+    "answer_1": "COLLAPSE",
+    "answer_2": "DELETE",
+    "answer_3": "REMOVE",
+    "answer_4": " All of above",
+    "right_answer": "DELETE"
+  },
+  {
+    "title": " Which SQL statement is used to return only different values?",
+    "answer_1": "SELECT DIFFERENT",
+    "answer_2": "SELECT DISTINCT",
+    "answer_3": "SELECT UNIQUE",
+    "answer_4": "None of the above",
+    "right_answer": "SELECT DIFFERENT"
+  },
+  {
+    "title": "Which SQL keyword is used to sort the result-set?",
+    "answer_1": "SORT",
+    "answer_2": "SORT BY",
+    "answer_3": "ORDER",
+    "answer_4": "ORDER BY",
+    "right_answer": "ORDER BY"
+  }
+]
+
+ 

@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Q1:Who Created Laravel?",
+        "answer_1": "Margon Stan",
+        "answer_2": "Taylor Otwell",
+        "answer_3": "Samsy Twig",
+        "answer_4": "None of these",
+        "right_answer": "Taylor Otwell"
+    },
+    {
+        "title": "Q2:What is the use of .env file in Laravel?",
+        "answer_1": "Setting Up local Environment variable",
+        "answer_2": "Optimization",
+        "answer_3": "Hosting",
+        "answer_4": "None of these",
+        "right_answer": "Setting Up local Environment variable"
+    },
+    {
+        "title": "Q3:Command to start Laravel Application?",
+        "answer_1": "php artisan new",
+        "answer_2": "php artisan",
+        "answer_3": "php artisan start",
+        "answer_4": "php artisan serve",
+        "right_answer": "php artisan serve"
+    },
+    {
+        "title": "Q4:By default laravel project runs on which PORT?",
+        "answer_1": "3000",
+        "answer_2": "5000",
+        "answer_3": "8000",
+        "answer_4": "7000",
+        "right_answer": "8000"
+    },
+    {
+        "title": "Q5:Command to get the route list in Laravel?",
+        "answer_1": "php artisan list",
+        "answer_2": "php artisan route:list",
+        "answer_3": "php artisan route",
+        "answer_4": "php artisan list:all",
+        "right_answer": "php artisan route:list"
+    }
+]

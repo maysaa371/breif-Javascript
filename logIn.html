@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/signIn.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
+
+    <title>Login Coding Quizzes</title>
+    <link rel="stylesheet" href="loginStyle.css">
+</head>
+<body>
+    <div class="wrapper">
+    <div class="form-wrapper sign-in">
+  
+            <form class="sign-in form">
+                <div class="input-group">
+                <input id="Name" type="text" >
+                <label for="">Username</label>
+                <div id="nameerror" class="loginEmailMessage"></div>
+                </div>
+                <!-- <input id="Email" type="text" placeholder="Email">
+                <div id="emailerror"></div> -->
+                <div class="input-group">
+                <input id="Password" type="password" >
+                <label for="">Password</label>
+                <div id="passworderror" class="loginPassMessage" ></div>
+                <div id="totalerror"></div>
+                </div>
+                <button id="login">Login</button>
+                <div class="signUp-link">
+                    <p>Don't have an account?
+                        <a href="#" class="signUpBtn-link">Sign Up</a>
+                    </p>
+                </div>
+                <div class="social-platform">
+                    <p>Or sign in with</p>
+                    <div class="social-icons">
+                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="#"><i class="fa-brands fa-google"></i></a>
+                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                    </div>
+                    </div>
+            </form>
+        </div>
+      
+        <div class="form-wrapper sign-up">
+                
+                <form class="sign-up form"  onsubmit="StoreData()">     <!-- call function to do somthing whrn sbimt the form  -->
+                    <h2>Sign Up</h2>
+                    <div class="input-group">
+                    <input id="Name1" type="text"  value="">
+                    <label for="">Username</label>
+                    <div id="nameerror1" class="errorMessage"></div>
+                    </div>
+                    <div class="input-group">
+                    <input id="Email1" type="text"  value="">
+                    <label for="">Email</label>
+                    <div id="emailerror1" class="errorMessage"></div>
+                    </div>
+                    <div class="input-group">
+                    <input id="Password1" type="password" value="">
+                    <label for="">Password</label>
+                    <div id="passworderror1" class="errorMessage"></div>
+                    </div>
+                    <div class="input-group">
+                    <input id="Confirm1" type="password"  value="">
+                    <label for="">Confirm Password</label>
+                    <div id="confirmerror1" class="errorMessage"></div>
+                 </div>
+                    <!-- <input id="Phone" type="text" placeholder="Phone number" value="">
+                    <div id="phoneerror"></div> -->
+                    <div class="signUp-link">
+                        <p>Already have an account?
+                            <a href="#" class="signInBtn-link">Sign In</a>
+                        </p>
+                    </div>
+                   
+                    <!-- <input id="checked" class="check" type="checkbox"> 
+                    <span>Policy&Term</span> -->
+                    <div id="checkerror" class="errorMessage"></div>
+                    <button id="signup">Sign Up</button>
+                </form>
+           
+        </div>
+        
+    </div>
+  
+
+    <script src="/logIn.js"></script>
+    <script src="/Stylejs.js"></script>
+    <script src="/signup.js"></script>
+</body>
+</html>

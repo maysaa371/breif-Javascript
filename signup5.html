@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <title>Sign UP</title>
+    <link rel="stylesheet" href="signupStyle.css">
+</head>
+<body>
+    
+    <div class="continar">
+      
+        <div class="right">
+            <div class="wrapper two">
+                <div class="neon">
+                    <h1 class="lefttext">Sign Up</h1>
+                </div>
+            </div>
+            <form onsubmit="StoreData()">     <!-- call function to do somthing whrn sbimt the form  -->
+                <input id="Name" type="text" placeholder="User name" value="">
+                <div id="nameerror" class="errorMessage"></div>
+                <input id="Email" type="text" placeholder="Email" value="">
+                <div id="emailerror" class="errorMessage"></div>
+                <input id="Password" type="password" placeholder="Password" value="">
+                <div id="passworderror" class="errorMessage"></div>
+                <input id="Confirm" type="password" placeholder="Confirm password" value="">
+                <div id="confirmerror" class="errorMessage"></div>
+                <!-- <input id="Phone" type="text" placeholder="Phone number" value="">
+                <div id="phoneerror"></div> -->
+                <div><a class="have_account" href="login.html">Already have account</a></div>
+                <!-- <input id="checked" class="check" type="checkbox"> 
+                <span>Policy&Term</span> -->
+                <div id="checkerror" class="errorMessage"></div>
+                <button id="signup" >Sign Up</button>
+            </form>
+        </div>
+    </div>
+    
+
+    <script src="/signup.js"></script>
+</body>
+</html>

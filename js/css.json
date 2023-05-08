@@ -1,0 +1,42 @@
+[
+  {
+      "title": "Q1:  CSS stands for -",
+      "answer_1": "Cascade style sheets",
+      "answer_2": "Color and style sheets",
+      "answer_3": "Cascading style sheets",
+      "answer_4": "None of the above",
+      "right_answer": "Cascading style sheets"
+  },
+  {
+      "title": "Q2:The HTML attribute used to define the inline styles is -",
+      "answer_1": "style",
+      "answer_2": "styles",
+      "answer_3": "class",
+      "answer_4": "None of the above",
+      "right_answer": "style"
+  },
+  {
+      "title": "Q3:The CSS property used to control the element's font-size is -",
+      "answer_1": "text-style",
+      "answer_2": "text-size",
+      "answer_3": "font-size",
+      "answer_4": "None of the above",
+      "right_answer": "font-size"
+  },
+  {
+      "title": "Q4: The CSS property used to make the text bold is -",
+      "answer_1": "font-weight : bold",
+      "answer_2": "weight: bold",
+      "answer_3": "font: bold",
+      "answer_4": "style: bold",
+      "right_answer": "font-weight : bold"
+  },
+  {
+      "title": "Q5: Are the negative values allowed in padding property?",
+      "answer_1": "yes",
+      "answer_2": "no",
+      "answer_3": "Can't say",
+      "answer_4": "May be",
+      "right_answer": "no"
+  }
+]

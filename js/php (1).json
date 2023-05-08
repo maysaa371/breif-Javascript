@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Q1: PHP stands for -",
+    "answer_1": "Hypertext Preprocessor",
+    "answer_2": "Pretext Hypertext Preprocessor",
+    "answer_3": "Personal Home Processor",
+    "answer_4": "None of the above",
+    "right_answer": "Hypertext Preprocessor"
+  },
+  {
+    "title": "Q2: Who is known as the father of PHP?",
+    "answer_1": "DREK KOLKEVI",
+    "answer_2": "LIST BARELY",
+    "answer_3": "RASMUS LERDROF",
+    "answer_4": "None of the above",
+    "right_answer": "RASMUS LERDROF"
+  },
+  {
+    "title": "Q3: Variable name in PHP starts with -",
+    "answer_1": " ! (Exclamation)",
+    "answer_2": "$ (Dollar)",
+    "answer_3": "& (Ampersand)",
+    "answer_4": " # (Hash)",
+    "right_answer": "$ (Dollar)"
+  },
+  {
+    "title": "Q4: Which of the following is the default file extension of PHP?",
+    "answer_1": ".PHP",
+    "answer_2": ".HPHP",
+    "answer_3": ".XML",
+    "answer_4": ".HTML",
+    "right_answer": ".PHP"
+  },
+  {
+    "title": "Q5: Which of the following is not a variable scope in PHP?",
+    "answer_1": "EXTRN",
+    "answer_2": "LOCAL",
+    "answer_3": "STATIC",
+    "answer_4": "GLOBAL",
+    "right_answer": "EXTRN"
+  }
+]
+
+ 

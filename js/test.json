@@ -1,0 +1,135 @@
+{"SQL" : {
+    "question1": {
+        "question":"Q1: What does SQL stand for?",
+        "a": ". Structured Query Language",
+        "b": ". Structured Question Language",
+        "c": ". Strong Question Language",
+        "d": ". None of the above",
+        "correct": "a"
+    },
+    "question2": {
+        "question": " Q2: Which SQL statement is used to extract data from a database?",
+        "a": ". OPEN ",
+        "b": ". GET",
+        "c": ". EXTRACT",
+        "d": ". SELECT",
+        "correct": "d"
+    },
+    "question3": {
+        "question": "Q3: Which SQL statement is used to update data in a database?",
+        "a": ". COLLAPSE ",
+        "b": ". DELETE",
+        "c": ". REMOVE",
+        "d": ". All of above",
+        "correct": "b"
+    },
+    "question4": {
+        "question": "Q4: Which SQL statement is used to return only different values?",
+        "a": ". SELECT DIFFERENT",
+        "b": ". SELECT DISTINCT",
+        "c": ". SELECT UNIQUE",
+        "d": ". None of the above",
+        "correct": "b"
+    },
+    "question5": {
+        "question": "Q5: Which SQL keyword is used to sort the result-set?",
+        "a": ". SORT",
+        "b": ". SORT BY",
+        "c": ". ORDER",
+        "d": ". ORDER BY",
+        "correct": "c"
+    }
+
+},
+
+"PHP":
+    {
+        "question1": {
+            "question":"Q1:  Full form of PHP is______",
+            "a": ". Hypertext Preprocessor ",
+            "b": ". Pretext Hypertext Preprocessor",
+            "c": ". Processor Hypertext Processor",
+            "d": ". None of the above ",
+            "correct": "a"
+        },
+        "question2": {
+            "question": " Q2: Which of the following is the correct way to declare the constant in PHP?",
+            "a": ". const",
+            "b": ". let",
+            "c": ". var",
+            "d": ". define",
+            "correct": "d"
+        },
+        "question3": {
+            "question": "Q3: Which Of The Following Selector Selects An Element That Has No Children?",
+            "a": ". Sign !",
+            "b": ". Sign $",
+            "c": ". Sign &",
+            "d": ". Sign #",
+            "correct": "b"
+        },
+        "question4": {
+            "question": "Which of the following is the syntax of comment in PHP?",
+            "a": ". /* */",
+            "b": ". All of the above",
+            "c": ". //",
+            "d": ". #",
+            "correct": "b"
+        },
+        "question5": {
+            "question": "Q5:  Which of the below method is used to generate the unique id in Php?",
+            "a": ". mid()",
+            "b": ". id()",
+            "c": ". unique()",
+            "d": ". None of the above",
+            "correct": "c"
+        }
+    
+    },
+
+"HTML":
+{
+    "question1": {
+        "question":"Q1: What does HTML stands for?",
+        "a": ". Hypertext Markup Language..",
+        "b": ". Hypertext and links markup language.",
+        "c": ". Hypertext Machine language.",
+        "d": ". Hightext machine language.",
+        "correct": "a"
+    },
+    "question2": {
+        "question": " Q2: What is the purpose of using div tags in HTML ?",
+        "a": ". For adding titles.",
+        "b": ". For adding headings",
+        "c": ". For creating Different styles.",
+        "d": ". For creating different sections",
+        "correct": "d"
+    },
+    "question3": {
+        "question": "Q3:hich of the following attributes is used to open an hyperlink in new tab?",
+        "a": ".  tab ",
+        "b": ".  target",
+        "c": ".  href",
+        "d": ".  ref",
+        "correct": "b"
+    },
+    "question4": {
+        "question": "Q4: What is the font-size of the h1 heading tag? ",
+        "a": ". 3.5 em",
+        "b": ". 2 em",
+        "c": ". 2.17 em",
+        "d": ". 1.5 em",
+        "correct": "b"
+    },
+    "question5": {
+        "question": "Q5: Which of the following attributes is used to add link to any element?",
+        "a": ". link",
+        "b": ". ref",
+        "c": ". href",
+        "d": ". newref",
+        "correct": "c"
+    }
+
+}
+
+}

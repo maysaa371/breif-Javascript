@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Q1:Which type of JavaScript language is ___",
+        "answer_1": "Object-Oriented",
+        "answer_2": "Object-Based",
+        "answer_3": "Assembly-language",
+        "answer_4": "High-level",
+        "right_answer": "Object-Based"
+    },
+    {
+        "title": "Q2:Which one of the following also known as Conditional Expression:",
+        "answer_1": "Alternative to if-else",
+        "answer_2": "Switch statement",
+        "answer_3": "If-then-else statement",
+        "answer_4": "immediate if",
+        "right_answer": "immediate if"
+    },
+    {
+        "title": "Q3:The function and  var are known as:",
+        "answer_1": "Keyword",
+        "answer_2": "Data types",
+        "answer_3": "Declaration statements",
+        "answer_4": "Prototypes",
+        "right_answer": "Declaration statements"
+    },
+    {
+        "title": "Q4: Which of the following type of a variable is volatile?",
+        "answer_1": "Mutable variable",
+        "answer_2": "Dynamic variable",
+        "answer_3": "Volatile variable",
+        "answer_4": "Immutable variable",
+        "right_answer": "Mutable variable"
+    },
+    {
+        "title": "Q5:The new Point(3,2), is a kind of _______ expression",
+        "answer_1": "Object Creation Expression",
+        "answer_2": "Primary Expression",
+        "answer_3": "Invocation Expression",
+        "answer_4": "Constructor Calling Expression",
+        "right_answer": "Object Creation Expression"
+    }
+]

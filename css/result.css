@@ -1,0 +1,44 @@
+body{
+    /* background-image: url(../imgs/mNo8h0.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text-secondary .d-sm-flex a {
+    text-decoration: none;
+}
+
+.display-5{
+    color: rgb(1, 1, 83);
+}
+.fs-5{
+    color: rgb(1, 1, 83);
+}
+.d-grid button{
+    background-color:rgb(1, 1, 83) ;
+    color: white;
+    border: none;
+}
+.d-grid button a{
+    color: white;
+}
+header span img{
+    width: 70px;
+    height: 70px;
+}
+.footer {
+    background-color:rgb(61, 61, 241) ;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 0%;
+    /* position:absolute; */
+    left: 0;
+    bottom: 0;
+}
+.footer p {
+    text-align: center;
+    color: white;
+}
+.nav-link {
+    font-weight: bold;
+    color: rgb(1, 1, 83);
+}
